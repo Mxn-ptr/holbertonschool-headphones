@@ -68,6 +68,10 @@
     color: var(--color-white);
   }
 
+  a:hover {
+    color: #ff6565;
+  }
+
   li {
 	  list-style: none;
   }
